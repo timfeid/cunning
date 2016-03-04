@@ -37,6 +37,7 @@ cmd.handle = function () {
 
 module.exports = cmd
 ```
+Note: Signatures have many options, see [mandator](https://github.com/timfeid/mandator/)
 
 ### From command line
 
