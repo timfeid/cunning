@@ -1,8 +1,8 @@
 {
   "name": "cunning",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command line tool",
-  "main": "index.js",
+  "main": "lib",
   "bin": {
     "cunning": "./index.js"
   },
