@@ -25,7 +25,7 @@ cunning.handle()
 ### your-command.js
 
 ```js
-Command = require('cunning/command')
+var Command = require('cunning/command')
   , cmd = new Command
 
 cmd.signature('welcome {--switch|s : Switchable switch} {argument : argument1}')
