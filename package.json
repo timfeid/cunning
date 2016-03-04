@@ -1,6 +1,6 @@
 {
   "name": "cunning",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Command line tool",
   "main": "lib",
   "bin": {
