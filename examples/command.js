@@ -1,4 +1,4 @@
-var Command = require('../lib/command'),
+var Command = require('../command'),
   exampleCommand = new Command
 
 exampleCommand.signature('command {uno}')

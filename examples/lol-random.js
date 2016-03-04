@@ -1,4 +1,4 @@
-var Command = require('../lib/command'),
+var Command = require('../command'),
   cmd = new Command
 
 cmd.signature('lol:random')

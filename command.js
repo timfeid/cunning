@@ -1,4 +1,4 @@
-var io = require('./io')
+var io = require('./lib/io')
   , Command = require('mandator/prototype')
   , stylesToColors = {
     info: 'cyan',
